@@ -1,0 +1,3 @@
+ How to activate the virtual env
+ source ecp/Scripts/activate
+ E:\Django Implemented>ecp\Scripts\Activate  ==> on window
